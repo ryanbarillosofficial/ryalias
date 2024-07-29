@@ -1,8 +1,7 @@
 # Ryan's Aliases
 List of aliases designed for use on Linux systems (mostly for personal use). List of supported Linux systems
 
-- Arch Linux
-- EndeavourOS
+- Arch Linux & its Derivatives (EndeavourOS, Manjaro, etc.)
 
 ## Installation
 - If you use BASH, source each file to "/etc/bash.bashrc"
